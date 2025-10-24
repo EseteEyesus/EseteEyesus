@@ -1,17 +1,31 @@
-# 👋 Hi, I'm Ebo! 😄
+👋 Hi, I'm Ebo Fantahun! 😄
 
-🎓 **Student | Developer | Lifelong Learner**  
-💻 Passionate about building modern web experiences with **React** ⚛️ and **Next.js** 🚀  
+🎓 Student | Full-Stack Developer | Lifelong Learner
 
-I'm always curious, constantly experimenting, and dedicated to learning something new every day. 
-Whether it's coding, collaborating, or contributing—I love being part of the tech universe 🌌.
+💻 I’m passionate about building modern web applications using technologies like React, Next.js, Node.js, Express, and PostgreSQL.
+I love transforming ideas into interactive, scalable, and user-friendly digital experiences 🚀
 
----
+⚡ What I'm Working On
 
-### ⚡ What I'm Working On
-- Crafting intuitive and performant web apps
-- Exploring full-stack development with modern tools
-- Growing my skills in open source and collaborative coding
+Crafting intuitive full-stack web apps with modern tools
+
+Exploring API development, authentication, and database design
+
+Enhancing user experiences through clean UI/UX
+
+Building real projects every day in my 30-Day Coding Challenge 💪
+
+🧠 Tech Stack
+
+Frontend: React ⚛️ | Next.js 🚀 | TypeScript | CSS | HTML
+Backend: Node.js | Express.js | Prisma | PostgreSQL
+Tools: Git | GitHub | VS Code | Vercel | Postman
+
+🌱 Currently Learning
+
+Full-stack app deployment (Vercel, Docker)
+
+Authentication with NextAuth.js & OAuth
 
 ---
 
